@@ -1,2 +1,2 @@
 # Email_Validation_Module
-This module contains Spring Boot code of how we can Generate OTP and send to an email and also how to verify the email address by OTP.
+This module contains Spring Boot code of how we can Generate OTP, send to the email and how to verify the email address by that OTP.
